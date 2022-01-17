@@ -8,4 +8,4 @@ El proceso está automatizado y se realiza sobre una búsqueda en Google imágen
 - Faro Zamani
 - Antonio Jiménez
 
-Estudiantes del bootcamp de Data Science en The Bridge | Digital Talent Accelerator
+*Estudiantes del bootcamp de Data Science en The Bridge | Digital Talent Accelerator*
